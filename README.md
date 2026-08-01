@@ -1,8 +1,5 @@
-# Ex.No: 6               HOLT WINTERS METHOD
-### Date: 
-
-
-
+# Ex.No: 6 HOLT WINTERS METHOD
+### Date: 01-08-2026
 ### AIM:
 
 ### ALGORITHM:
@@ -18,15 +15,17 @@ datetime, and perform some initial data exploration
 Winters model to the entire dataset and make future predictions
 9. You plot the original sales data and the predictions
 ### PROGRAM:
+```python
 
+```
 ### OUTPUT:
 
 
-TEST_PREDICTION
+### TEST_PREDICTION
 
 
 
-FINAL_PREDICTION
+### FINAL_PREDICTION
 
 ### RESULT:
 Thus the program run successfully based on the Holt Winters Method model.
